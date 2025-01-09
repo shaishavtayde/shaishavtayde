@@ -1,13 +1,13 @@
 <!-- 
   README for GitHub: shaishavtayde
-  - No GitHub stats
-  - Attractive visuals with wave & typing effect
-  - Includes a direct link to the project Notion page 
+  - No wave, still visually appealing
+  - Typing effect in the center
+  - Rounded capsule header and footer
 -->
 
-<!-- Wave Header -->
+<!-- Header (Rounded Capsule) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Shaishav%20Tayde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Hello%20World!&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=120&section=header&text=Shaishav%20Tayde&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Hi%20There!&descAlignY=65&descAlign=62" />
 </div>
 
 <!-- Typing Effect -->
@@ -25,7 +25,7 @@
 ## 🌟 About Me
 - 🎓 **MCS (Dec 2024)** @ University of California, Irvine  
 - 🔎 Passionate about **GenAI**, **LLMs**, & **Data Visualization**  
-- ⚙️ Skilled in **BERT Fine-Tuning**, **RAG**, **Recommendation Systems**, & **Survival Analysis**  
+- ⚙️ Skilled in **Predictive Modelling**, **Data Analysis**, **NLP**, & **Data StoryTelling**  
 
 ---
 
@@ -86,10 +86,12 @@
   </a>
 </p>
 
----
-
-<!-- Wave Footer -->
+<!-- Footer (Rounded Capsule) -->
 <div align="center">
-  <b>Thank you for visiting! Let’s connect and explore new possibilities together.</b><br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=80&section=footer&text=Thanks%20For%20Visiting!&fontSize=20&fontColor=ffffff" />
 </div>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaishavtayde&style=flat-square&color=blue" alt="Profile Views" />
+</p>
