@@ -27,34 +27,6 @@
 - 🔎 Passionate about **GenAI**, **LLMs**, & **Data Visualization**  
 - ⚙️ Skilled in **Predictive Modelling**, **Data Analysis**, **NLP**, & **Data StoryTelling**  
 
----
-
-## 💻 Tech Highlights
-
-### Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-### Cloud & MLOps
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FE7A16?style=flat&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0093B9?style=flat&logoColor=white)
-
-### Frameworks
-![Transformers](https://img.shields.io/badge/Transformers-FFAE1A?style=flat&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
----
 
 ## 🚀 Projects & Creations
 
